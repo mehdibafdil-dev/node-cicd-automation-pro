@@ -72,7 +72,7 @@ docker-compose up
 
 ## Architecture
 
-<p class="center"><img src="https://github.com/mehdibafdil-dev/img/architecture.png"></p>
+<p class="center"><img src="https://github.com/mehdibafdil-dev/blob/main/img/architecture.png"></p>
 
 ## Testing
 
